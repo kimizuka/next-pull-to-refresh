@@ -1,0 +1,32 @@
+{
+  "name": "next-pull-to-refresh",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "update": "ncu -u"
+  },
+  "dependencies": {
+    "next": "13.5.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^4.11.0",
+    "reset-css": "^5.0.2",
+    "styled-components": "^6.0.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/styled-components": "^5.1.28",
+    "babel-plugin-styled-components": "^2.1.4",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4",
+    "npm-check-updates": "^16.14.4",
+    "sass": "^1.68.0",
+    "typescript": "^5"
+  }
+}
